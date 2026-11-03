@@ -3,6 +3,8 @@ A collections of roles and skills required for a devops team. The reason for thi
 
 The data in this project is based on a team working on a .Net project and is solely used to demonstrate how all these components can be set up to work together. If you want to use the project you should tweak it to your own usecase.
 
+![AI generated team]([https://www.markdownlang.com/static/images/logo.png](https://github.com/Luuk-4DotNet/DevOps.AI/blob/main/DevOps.jpeg))
+
 
 ## Agents
 
