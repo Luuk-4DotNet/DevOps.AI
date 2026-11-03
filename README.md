@@ -6,6 +6,33 @@ The data in this project is based on a team working on a .Net project and is sol
 ![AI generated team](https://github.com/Luuk-4DotNet/DevOps.AI/blob/main/DevOps.jpeg)
 
 
+## Setup
+
+The MCP servers and skills read their secrets from environment variables. Put them in a `.env` file in the root of the project:
+
+```dotenv
+# mcp/databases.json (mssql)
+MSSQL_CONNECTIONSTRING='Server=myserver;Database=mydb;User Id=myuser;Password=mypassword;TrustServerCertificate=True'
+
+# mcp/projects.json (azure-devops)
+AZURE_DEVOPS_PROJECT=my-project
+
+# skills/figma (Figma MCP bearer token)
+FIGMA_OAUTH_TOKEN=figd_xxxxxxxxxxxxxxxx
+
+# skills/playwright (optional named session for playwright-cli)
+PLAYWRIGHT_CLI_SESSION=
+```
+
+Then add the variables to your system environment:
+
+```bash
+scripts/set-env.sh
+```
+
+The script writes the variables to a managed block in your shell profile (`~/.zshrc` or `~/.bash_profile`) and, on macOS, to the launchd session so GUI apps see them. Re-run it after changing `.env`. Placeholders such as `<your-token>` are skipped. The `.env` file is git-ignored, so keep your real secrets out of commits.
+
+
 ## Agents
 
 The roles whitin the team, e.g. developer and tester. There should be always an agent who delegates the work to the team members or sub-agents. In this case it's the Team Lead. Every agent has a name, description, model, personality, skills, tools and workflow. The models are given for Anthropic, Github and Google. Personalities are an optional thing to make it a bit more fun.

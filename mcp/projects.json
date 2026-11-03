@@ -7,7 +7,7 @@
         "--allow-scripts=keytar",
         "-y",
         "@azure-devops/mcp",
-        "visscher-caravelle"
+        "${AZURE_DEVOPS_PROJECT}"
       ],
       "env": {}
     }
