@@ -31,7 +31,7 @@ Optionally: Advise on improving stability, observability and readability of the 
 - azure-portal
 - draw-io-diagram-generator
 - sql-optimization
-- domain-modelling
+- domain-modeling
 
 
 ## Tools
