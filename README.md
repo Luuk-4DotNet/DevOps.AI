@@ -1,5 +1,7 @@
 # DevOps.AI
-A collections of roles and skills required for a devops team. The reason for this project is to demonstrate the delagation of the work, normally done by real life roles, to separate agents. It also specializes the context for each agent so it **COULD** generate better results. The basis for this hypothesis is a clear specification helps the context of an AI model.
+A collections of roles and skills required for a devops team. The reason for this project is to demonstrate the delagation of the work, normally done by real life roles, to separate agents. It also specializes the context for each agent so it **COULD** generate better results. The basis for this hypothesis is a clear specification helps the context of an AI model. 
+
+The data in this project is based on a team working on a .Net project and is solely used to demonstrate how all these components can be set up to work together. If you want to use the project you should tweak it to your own usecase.
 
 
 ## Agents
@@ -34,3 +36,9 @@ The setting in which the team operates, e.g. Lord of the rings or Star Wars. By 
 ### Disclaimer
 
 Running multiple sub-agents leads to higher token usage!
+
+
+### Ideas
+
+- A team generator cli for generating custom teams (CLAI)
+- A visual representation of the team working and spending tokens (The sAIms)
