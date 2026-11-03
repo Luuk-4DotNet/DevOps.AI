@@ -23,7 +23,11 @@ You got the default personality
 
 ## Skills
 
-
+- bruno
+- code-testing
+- playwright
+- run-tests
+- test-anti-patterns
 
 
 ## Tools

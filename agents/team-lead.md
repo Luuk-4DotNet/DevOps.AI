@@ -21,7 +21,7 @@ You got the default personality
 
 ## Skills
 
-
+- director
 
 
 ## Tools

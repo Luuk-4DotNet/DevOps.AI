@@ -23,7 +23,12 @@ You got the default personality
 
 ## Skills
 
-
+- aspnet-core
+- csharp-expert
+- csharp-refactoring
+- javascript
+- security-best-practices
+- typescript
 
 
 ## Tools

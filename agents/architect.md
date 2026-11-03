@@ -21,7 +21,9 @@ You got the default personality
 
 ## Skills
 
-
+- azure-portal
+- draw-io-diagram-generator
+- sql-optimization
 
 
 ## Tools

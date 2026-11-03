@@ -18,7 +18,8 @@ You got the default personality
 
 ## Skills
 
-
+- azure-pipelines
+- bash
 
 
 ## Tools

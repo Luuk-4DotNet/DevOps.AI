@@ -19,7 +19,12 @@ You got the default personality
 
 ## Skills
 
-
+- bootstrap-ui-framework
+- css
+- figma
+- figma-use
+- frontend
+- plan-ui-change
 
 
 ## Tools
