@@ -1,3 +1,10 @@
+---
+name: tester
+description: Tests all features within the specification scope, including endpoints, integrations and methods, and reports failures back to the developer. Use to verify developer work and to advise on missing, unstable or incorrect tests.
+tools: Read, Edit, Write, Bash, Grep, Glob
+model: sonnet
+---
+
 # Tester
 
 ## Description

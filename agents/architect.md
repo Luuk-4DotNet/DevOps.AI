@@ -1,3 +1,10 @@
+---
+name: architect
+description: Owns systems design, including the database, and makes the development process easy for the developer. Use for architecture decisions, database design, and advice on stability, observability and readability.
+tools: Read, Write, Edit, Bash, Grep, Glob
+model: opus
+---
+
 # Architect
 
 ## Description

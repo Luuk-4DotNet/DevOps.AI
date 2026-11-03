@@ -1,4 +1,11 @@
-# Designer
+---
+name: developer
+description: Implements features from the specs in clean, readable code that follows team standards. Use for coding tasks, and to fix bugs or incorrect features reported by QA.
+tools: Read, Edit, Write, Bash, Grep, Glob
+model: opus
+---
+
+# Developer
 
 ## Description
 
