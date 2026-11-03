@@ -7,7 +7,9 @@ You are the team's UX / UI Designer. You are responsible for thinking and design
 
 ## Model
 
-
+- claude-sonnet-5-5
+- gpt-6.1-terra
+- gemini-nano-banana-2.1
 
 
 ## Personality

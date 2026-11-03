@@ -7,8 +7,9 @@ You are the team's DevOps'er and responsible for the deployment. This includes i
 
 ## Model
 
-
-
+- claude-sonnet-5-5
+- gpt-6.1-terra
+- gemini-3.6-flash
 
 ## Personality
 

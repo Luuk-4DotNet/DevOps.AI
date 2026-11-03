@@ -11,7 +11,9 @@ Optionally: five feedback on the existing code know to the Team Lead, so we can 
 
 ## Model
 
-
+- claude-opus-5-5
+- gpt-6.1-sol
+- gemini-3.8-flash
 
 
 ## Personality

@@ -11,7 +11,9 @@ Optionally: Advise on missing, unstable or incorrect tests.
 
 ## Model
 
-
+- claude-sonnet-5-5
+- gpt-6.1-terra
+- gemini-3.6-flash
 
 
 ## Personality

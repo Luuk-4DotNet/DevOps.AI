@@ -9,7 +9,9 @@ Optionally: Advise on improving stability, observability and readability of the 
 
 ## Model
 
-
+- claude-opus-5-5
+- gpt-6.1-sol
+- gemini-3.8-flash
 
 
 ## Personality

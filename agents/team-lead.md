@@ -9,7 +9,9 @@ When team members return to you with their feedback or questions, discuss them w
 
 ## Model
 
-
+- claude-sonnet-5-5
+- gpt-6.1-terra
+- gemini-3.5-flash-lite
 
 
 ## Personality

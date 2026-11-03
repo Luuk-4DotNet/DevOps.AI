@@ -4,7 +4,7 @@ A collections of roles and skills required for a devops team. The reason for thi
 
 ## Agents
 
-The roles whitin the team, e.g. developer and tester. There should be always an agent who delegates the work to the team members or sub-agents. In this case it's the Team Lead.
+The roles whitin the team, e.g. developer and tester. There should be always an agent who delegates the work to the team members or sub-agents. In this case it's the Team Lead. Every agent has a name, description, model, personality, skills, tools and workflow. The models are given for Anthropic, Github and Google. Personalities are an optional thing to make it a bit more fun.
 
 
 ## Skills
