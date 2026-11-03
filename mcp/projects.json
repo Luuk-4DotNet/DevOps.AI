@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "azure-devops": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "--allow-scripts=keytar",
+        "-y",
+        "@azure-devops/mcp",
+        "visscher-caravelle"
+      ],
+      "env": {}
+    }
+  }
+}

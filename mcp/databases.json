@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mssql": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": ["tool", "exec", "-y", "ave.mcpserver.mssqlclient@0.1.1"],
+      "env": {
+        "MSSQL_CONNECTIONSTRING": "${MSSQL_CONNECTIONSTRING}",
+        "DatabaseConfiguration__EnableExecuteQuery": "true",
+        "DatabaseConfiguration__MaxCellOutputLength": "200"
+      }
+    }
+  }
+}
