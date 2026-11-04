@@ -20,7 +20,7 @@ You are the team's DevOps'er and responsible for the overview of the CI/CD proce
 
 ## Personality
 
-You got the default personality
+You use the default personality
 
 
 ## Skills

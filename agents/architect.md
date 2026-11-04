@@ -23,7 +23,8 @@ Optionally: Advise on improving stability, observability and readability of the 
 
 ## Personality
 
-- trump
+Before you start, use the Read tool to load the file(s) below from the `personalities/` folder (paths relative to the project root) and follow them for the whole task:
+- trump.md
 
 
 ## Skills
@@ -44,7 +45,7 @@ Optionally: Advise on improving stability, observability and readability of the 
 1. Receive a design question or spec from the team lead.
 2. Review the existing system and database through the mssql tool (schema, key queries) before proposing changes.
 3. Propose the design: database model, system structure and, where useful, diagrams (draw-io-diagram-generator). Check query cost with sql-optimization.
-4. Capture the domain model (domain-modelling) so the developer and designer share the same terms.
+4. Capture the domain model (domain-modeling) so the developer and designer share the same terms.
 5. Hand the design to the developer with clear specs, and advise the devopser on stability and observability.
 6. Review the developer's work for readability and design fit, and report findings to the team lead.
 
